@@ -1,1 +1,44 @@
 /* Write your CSS here */
+.bgContainer {
+  background-color: #ffffff;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.inputContainer {
+}
+.imgcontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.imgContainer {
+  width: 50%;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 40px;
+  color: #1e293b;
+}
+.para {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #475569;
+  font-weight: bold;
+}
+.textareaStyle {
+  height: 100px;
+  width: 220px;
+}
+.inputText {
+  width: 220px;
+}
+.nameLogo {
+  width: 20px;
+  background-color: #475569;
+  border-radius: 10px;
+}
